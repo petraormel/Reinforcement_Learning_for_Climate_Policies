@@ -5,4 +5,4 @@ in the economic climate model of the 2013 version of DICE. (Dynamic Integrated C
 
 
 We show that DDPG learns a policy that achieves the same discounted reward over 600 years up to
-99.5 percent as a benchmark policy with a Dynamic Programming approach.
+99.5 percent as a benchmark policy with a Dynamic Programming approach. For more information read our attached paper.
